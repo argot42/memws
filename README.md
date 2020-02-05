@@ -1,0 +1,2 @@
+# memws
+in memory WriteSeeker
